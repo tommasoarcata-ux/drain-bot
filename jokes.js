@@ -1,0 +1,17 @@
+module.exports = [
+  "Perché i programmatori preferiscono il buio? Perché la luce attira i bug! 🐛",
+  "Cosa dice un informatico quando affoga? F1! F1!",
+  "Perché il computer è andato dal dottore? Aveva un virus!",
+  "Sai qual è il colmo per un elettricista? Non avere un amico vero, ma solo un neutro.",
+  "Due antenne si sposano: la cerimonia fa schifo ma la ricezione è ottima!",
+  "Perché le api hanno i capelli appiccicosi? Perché usano l'honey... ehm, l'hair gel!",
+  "Cosa fa un dinosauro quando si fa male a un dito? Dino-saura!",
+  "Un libro di matematica è triste perché ha troppi problemi.",
+  "Qual è il colmo per un fornaio? Avere le mani in pasta ma non capirci niente.",
+  "Perché il pomodoro è diventato rosso? Perché ha visto l'insalata condita!",
+  "Come si chiama un gatto che lavora in banca? Un ragio-gatto!",
+  "Sai perché i pesci non pagano le tasse? Perché vivono sotto il livello del mare... fiscale!",
+  "Il colmo per un fotografo? Avere la faccia da schiaffi e non poterla sviluppare.",
+  "Cosa disse un muro all'altro muro? Ci vediamo all'angolo!",
+  "Perché lo scheletro non va mai alle feste? Perché non ha nessuno con cui uscire... di pelle!",
+];
